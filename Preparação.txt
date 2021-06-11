@@ -1,0 +1,24 @@
+Pomodoro é uma forma de se manter focado nos estudos. Quantos estamos focado, vai chegar uma hora que nosso cerebro não irá processar mais as informações. Mais o pomodoro ajuda pq, ele faz com que vc faça uma pausa (5 minutos) e depois volte focado novamente.
+
+Aprendizado ativo e passivo
+
+Tenha um lugar reservado para seu estudos
+
+Especialista e generalista
+
+Pesquise
+
+leva tempo para as coisas fazerem sentido(pratica)
+
+*CSS
+O guia estelar de CSS
+Nem tudo são pixels
+Uma caiza dentro da outra
+APP bonito até nos textos
+
+*HTTP
+Entendendo
+	Visão geral
+	Visualizando a comunicação
+Conceitos (com exceção de proxies)
+URI (com execeção da aula de URN)
